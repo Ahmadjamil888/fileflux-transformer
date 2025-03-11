@@ -94,6 +94,6 @@
 }
 
 .drop-zone.active {
-  border-color: theme('colors.primary');
+  border-color: theme('colors.primary.DEFAULT');
   background-color: rgba(59, 130, 246, 0.05);
 }
